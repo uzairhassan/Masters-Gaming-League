@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_c56a49914692f26a87d6b5f2ef54c70c4c07aea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.github.ivbaranov/materialfavoritebutton/0.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5664aee50f2216099cc90c55768d3bbe0b075c74">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.github.ivbaranov-materialfavoritebutton-0.1.4_b91552e45feecff2e951a3e264d02ea989a3eaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_371949089877c50c5c64cc82fc7b0e46883f1ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_ec86acf1928323821aca24d26639b371a247a413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_bfa3c4e12c4861bc7422bf1f108bcb7421056064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpcore_c856d96279874e94f578057fd03ce6618a125e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_35fab2fcb15ece08f590c71726dd93d45c731f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_d08fe4dc8169f73a57127f6350fe92a07d0a03cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_ae3afa1f8bdb1eed041a1c1a39314bfbf931d218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/gr.pantrif/easy-android-splash-screen/0.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/gr.pantrif-easy-android-splash-screen-0.0.1_9d3bdcc594b2f97fd81ea42a3befd4097ff60f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_c11f9d0cd18b96e6adb5b435d14b06f516037941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.github.florent37/materialtextfield/1.0.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="89ba8466f3e32427af7aa725eb7be31a15c78a77">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.github.florent37-materialtextfield-1.0.7_7e8a430ce9ee2e48caafa6ae04ef9d5e90cebc5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_c529d3a613dbdb6d59f400759889b6f5688ae89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_74ef808a76cb9759d017a3a0e959df4922ae4a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_4a04cd1001e324061bd9fb89fded75181c22d79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/MGL (1)/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_cc7026a70dab44376b206921a962b00ea82b8610.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sports.mgl.mgl">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/mgl"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme.Base">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignInActivity"></activity>
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".Admin.AdminActivity" />
+        <activity android:name=".User.GamesViewAcitivty" />
+        <activity android:name=".User.MatchDetailActivity" />
+        <activity android:name=".Admin.GameUpdateActivity" />
+        <activity android:name=".Admin.DetailEditActivity"></activity>
+        <service
+            android:name=".ServiceAndBrodcast.NotificationService"
+            android:enabled="true" >
+        </service>
+
+        <receiver
+            android:name=".ServiceAndBrodcast.NotifyServiceRestartBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="RestartServiceWhenStopped">
+            <intent-filter>
+                <action android:name="mgl.service.RestartSensor"/>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
